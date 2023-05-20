@@ -83,7 +83,7 @@ Before getting started, ensure that you have the following prerequisites install
 - [Official Prometheus Installation Guide](https://prometheus.io/docs/prometheus/latest/installation/)
 - [Official Grafana Installation Guide](https://grafana.com/docs/grafana/latest/installation/)
 
-# GO RESTful API Development
+# 3. GO RESTful API Development
 
 ## Description
 
